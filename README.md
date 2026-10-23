@@ -4,7 +4,7 @@
 
 ## 🚀 Giới thiệu
 - 🎓 Sinh viên tại **Trường Đại học Công nghệ Thông tin (UIT - ĐHQG TP.HCM)**
-- 💻 Đam mê: **Backend Development** & **An toàn thông tin**
+- 💻 Đam mê: **System architecture** & **An toàn thông tin**
 - ⚡ Phong cách: Tối ưu hóa hệ thống, viết code chỉn chu và luôn học hỏi công nghệ mới.
 
 ---
