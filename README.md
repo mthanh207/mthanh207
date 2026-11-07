@@ -70,11 +70,11 @@ mt@uit:~$ ./vitals --check
 
 | Mục | Nội dung |
 |---|---|
-| 📝 **Tên bài** | *(điền tên bài nghiên cứu)* |
-| 👥 **Tác giả** | *(điền danh sách tác giả)* |
-| 🏛️ **Nơi công bố** | *(hội nghị / tạp chí / kỷ yếu — năm)* |
-| 🔗 **Liên kết** | *(DOI / PDF / Google Scholar)* |
-| 🧭 **Tóm tắt** | *(1–2 câu: bài toán → phương pháp → kết quả chính)* |
+| 📝 **Tên bài** | *Survey-Aware Explainable Machine Learning For Cost-Related Unmet Medical Care Among U.S. Adults* |
+| 👥 **Tác giả** | *Nguyen Bao Tien Phat, Nguyen Minh Thanh, Doan Hoang Viet, Nguyen Le Minh Khoa, Vo Nguyen Uyen Minh, Nguyen Hoang Long, and Dao Thanh Liem* |
+| 🏛️ **Nơi công bố** | *HEALTHINFO IV / 2026* |
+| 🔗 **Liên kết** | *Still working* |
+| 🧭 **Tóm tắt** | *modeling ML: Logistic Regression, Random Forest, XGBoost→ prediction within NHIS 2024)* |
 
 ### 🏥 `~/pipeline` — Cách mình làm việc với dữ liệu y tế
 
