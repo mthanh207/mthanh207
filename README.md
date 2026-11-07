@@ -45,7 +45,7 @@ mt@uit:~$ ./vitals --check
 - 🔭 **Đang làm:** [FL-IDS](https://github.com/<username>/<fl-ids-repo>) — Federated Learning cho hệ thống phát hiện xâm nhập phân tán
 - 📄 **Nghiên cứu:** xem mục [Nghiên cứu khoa học](#research) bên dưới
 - 🌱 **Đang học:** Python · SQL · PyTorch <!-- thêm FHIR / HL7 nếu bạn thật sự đang học -->
-- 📫 **Liên hệ:** [LinkedIn](https://linkedin.com/in/<linkedin-id>) · [Email](mailto:<email>)
+- 📫 **Liên hệ:** [LinkedIn](https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-9571b73a0/?trk=public-profile-join-page) · [Email](mailto:thanh.0704nguyen@gmail.com)
 
 <img src="./assets/ecg.svg" width="100%" alt="" />
 
@@ -53,7 +53,7 @@ mt@uit:~$ ./vitals --check
 
 | Dự án | Bài toán | Công nghệ · Kết quả |
 |---|---|---|
-| [**FL‑IDS**](https://github.com/<username>/<fl-ids-repo>) | Phát hiện tấn công mạng khi dữ liệu nằm rải rác ở nhiều nơi: các máy khách cùng huấn luyện một mô hình chung mà **không gửi dữ liệu thô** về máy chủ | Python · PyTorch · CICIDS2017 · ToN-IoT<br/>📈 *Kết quả: (điền Accuracy / F1 sau khi chạy thực nghiệm)* |
+| [**FL‑IDS**](https://github.com/<username>/<fl-ids-repo>) | Phát hiện tấn công mạng khi dữ liệu nằm rải rác ở nhiều nơi: các máy khách cùng huấn luyện một mô hình chung mà **không gửi dữ liệu thô** về máy chủ | Python · PyTorch · CICIDS2017 · ToN-IoT<br/>📈 *Kết quả: Still develop* |
 
 > [!TIP]
 > Federated Learning cũng là hướng tiếp cận được quan tâm trong y tế: nhiều bệnh viện có thể cùng huấn luyện mô hình mà không phải chia sẻ hồ sơ bệnh nhân ra ngoài.
