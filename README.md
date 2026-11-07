@@ -27,16 +27,16 @@
 ### 💻 `~/whoami`
 
 ```console
-minh@uit:~$ whoami
+mt@uit:~$ whoami
 Minh Thanh — Medical Information Systems @ UIT, VNU-HCM
 
-minh@uit:~$ cat focus.txt
+mt@uit:~$ cat focus.txt
 health data · privacy-preserving ML · clinical software
 
-minh@uit:~$ ls ~/now
+mt@uit:~$ ls ~/now
 building/   learning/   research/
 
-minh@uit:~$ ./vitals --check
+mt@uit:~$ ./vitals --check
 [ OK ] curiosity ........... 100%
 [ OK ] caffeine ............ 87%
 [WARN] sleep ............... low (deadline season)
