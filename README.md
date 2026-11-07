@@ -17,8 +17,8 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=<username>&label=L%C6%AF%E1%BB%A2T%20XEM&color=39ff14&style=for-the-badge" alt="Lượt xem trang" />
-    <a href="https://linkedin.com/in/<linkedin-id>"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn" /></a>
-    <a href="mailto:<email>"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-9571b73a0/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn" /></a>
+    <a href="mailto:thanh.0704nguyen@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Email" /></a>
     <a href="#research"><img src="https://img.shields.io/badge/Nghi%C3%AAn_c%E1%BB%A9u-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00d9ff" alt="Nghiên cứu khoa học" /></a>
   </p>
 
