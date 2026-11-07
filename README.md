@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0f766e,100:2dd4bf&height=200&section=header&text=TÊN%20BẠN&fontSize=54&fontColor=ffffff&desc=Medical%20Information%20Systems%20%C2%B7%20Data%20for%20Health&descSize=18&descAlignY=65" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0f766e,100:2dd4bf&height=200&section=header&text=Minh%20Thanh&fontSize=54&fontColor=ffffff&desc=Medical%20Information%20Systems%20%C2%B7%20Data%20for%20Health&descSize=18&descAlignY=65" alt="header" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=Sinh+viên+Hệ+thống+Thông+tin+Y+tế+%40+UIT;Biến+dữ+liệu+y+tế+thành+quyết+định+tốt+hơn;Đang+xây:+TÊN+DỰ+ÁN+CỦA+BẠN" alt="typing" />
 </div>
